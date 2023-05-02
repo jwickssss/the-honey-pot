@@ -1,0 +1,11 @@
+.imgCenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#titleHeader {
+    text-align: center;
+    font-family: 'Times New Roman';
+    font-size: 40px;
+}
