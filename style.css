@@ -9,3 +9,9 @@
     font-family: 'Times New Roman';
     font-size: 40px;
 }
+
+body {
+    background-image: url('./img/background-copyimghockeyStick.jpg');
+    background-size: cover;
+}
+
