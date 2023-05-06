@@ -15,3 +15,8 @@ body {
     background-size: cover;
 }
 
+.yanniInfo {
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
